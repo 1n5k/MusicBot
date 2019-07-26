@@ -14,3 +14,4 @@ tk-dev
 libssl-dev
 openssl
 :repo:ppa:mc3man/xerus-media -y
+python3-pip
