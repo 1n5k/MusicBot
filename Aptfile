@@ -1,0 +1,16 @@
+libopus0
+git
+libopus-dev
+libssl-dev
+libffi-dev
+libsodium-dev
+build-essential
+libncursesw5-dev
+libgdbm-dev
+libc6-dev
+zlib1g-dev
+libsqlite3-dev
+tk-dev
+libssl-dev
+openssl
+:repo:ppa:mc3man/xerus-media -y
